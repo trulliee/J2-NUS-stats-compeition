@@ -19,10 +19,5 @@ Findings suggest strong evidence (p < 0.01) that **higher income groups are more
 - Raw data collected via survey
 - Sample validated via Central Limit Theorem assumptions
 
-## 📁 Files
-- `Statistics_Proposal.pdf`: Full project report
-- (Optional) `survey_form_link.txt`: Link to Google Form used
-
 ## 🏫 Organizer
 [NUS Department of Statistics and Applied Probability](https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/05/2020_Competition_Details.pdf)
-
