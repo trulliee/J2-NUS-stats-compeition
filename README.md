@@ -1,6 +1,6 @@
 # NUS Statistics Competition 2020 – Food Wastage vs Affluence
 
-This repository contains the project report submitted to the 2020 NUS Statistics and Applied Probability Competition by Trulli Lee and team, representing Catholic Junior College.
+This repository contains the project report submitted to the 2020 NUS Statistics and Applied Probability Competition representing Catholic Junior College.
 
 ## 📌 Project Title
 **How is food wastage related to the level of affluence of countries?**
